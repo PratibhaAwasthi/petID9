@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": "petItem9",
+      "name": "Arm & Hammer Clump & Seal Cat Litter",
+      "company": "Arm & Hammer",
+      "price": 21.99,
+      "description": "Arm & Hammer Clump & Seal Cat Litter uses a proprietary blend of moisture-activated micro-granules to form an odor-containing seal around your cat's waste, eliminating odors for 7 days or more. The ultra-low dust formula makes for easy cleanup, while the hard-clumping action makes scooping a breeze.",
+      "category": "Cat",
+      "shipping": true,
+      "stock": 12,
+      "reviews": 58,
+      "stars": 2.8,
+      "image": [
+        {
+          "id": "randomid1",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/cc/f8/45/ccf84564fae9bd3d97d3a87e134cbadd.jpg",
+          "filename": "prod-1.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid2",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/cc/f8/45/ccf84564fae9bd3d97d3a87e134cbadd.jpg",
+          "filename": "prod-2.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid3",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/cc/f8/45/ccf84564fae9bd3d97d3a87e134cbadd.jpg",
+          "filename": "prod-3.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid4",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/cc/f8/45/ccf84564fae9bd3d97d3a87e134cbadd.jpg",
+          "filename": "prod-4.png",
+          "size": 1080,
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
